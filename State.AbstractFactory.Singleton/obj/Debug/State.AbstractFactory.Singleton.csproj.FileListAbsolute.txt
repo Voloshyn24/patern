@@ -1,0 +1,6 @@
+C:\Users\volos\Desktop\Documents\Visual Studio 2015\State.AbstractFactory.Singleton\State.AbstractFactory.Singleton\bin\Debug\State.AbstractFactory.Singleton.exe.config
+C:\Users\volos\Desktop\Documents\Visual Studio 2015\State.AbstractFactory.Singleton\State.AbstractFactory.Singleton\bin\Debug\State.AbstractFactory.Singleton.exe
+C:\Users\volos\Desktop\Documents\Visual Studio 2015\State.AbstractFactory.Singleton\State.AbstractFactory.Singleton\bin\Debug\State.AbstractFactory.Singleton.pdb
+C:\Users\volos\Desktop\Documents\Visual Studio 2015\State.AbstractFactory.Singleton\State.AbstractFactory.Singleton\obj\Debug\State.AbstractFactory.Singleton.csprojResolveAssemblyReference.cache
+C:\Users\volos\Desktop\Documents\Visual Studio 2015\State.AbstractFactory.Singleton\State.AbstractFactory.Singleton\obj\Debug\State.AbstractFactory.Singleton.exe
+C:\Users\volos\Desktop\Documents\Visual Studio 2015\State.AbstractFactory.Singleton\State.AbstractFactory.Singleton\obj\Debug\State.AbstractFactory.Singleton.pdb
